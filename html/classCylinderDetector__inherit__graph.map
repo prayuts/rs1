@@ -1,0 +1,4 @@
+<map id="CylinderDetector" name="CylinderDetector">
+<area shape="rect" id="node1" title="CylinderDetector class that handles detection of 30cm diameter cylinders from laser scan data and dra..." alt="" coords="5,80,137,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="20,5,123,32"/>
+</map>
