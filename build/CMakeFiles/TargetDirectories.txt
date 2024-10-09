@@ -1,0 +1,10 @@
+/home/student/ros2_ws/src/rs1/build/CMakeFiles/uninstall.dir
+/home/student/ros2_ws/src/rs1/build/CMakeFiles/rs1_uninstall.dir
+/home/student/ros2_ws/src/rs1/build/CMakeFiles/cylinder.dir
+/home/student/ros2_ws/src/rs1/build/CMakeFiles/test.dir
+/home/student/ros2_ws/src/rs1/build/CMakeFiles/edit_cache.dir
+/home/student/ros2_ws/src/rs1/build/CMakeFiles/rebuild_cache.dir
+/home/student/ros2_ws/src/rs1/build/CMakeFiles/list_install_components.dir
+/home/student/ros2_ws/src/rs1/build/CMakeFiles/install.dir
+/home/student/ros2_ws/src/rs1/build/CMakeFiles/install/local.dir
+/home/student/ros2_ws/src/rs1/build/CMakeFiles/install/strip.dir
